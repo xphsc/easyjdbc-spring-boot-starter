@@ -19,3 +19,4 @@ spring-boot-starter-easyjdbc在spring jdbctemplate之上进行了一些包装，
 #### [快速开始](https://github.com/xphsc/spring-boot-starter-easyjdbc/wiki/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
 #### [基本操作](https://github.com/xphsc/spring-boot-starter-easyjdbc/wiki/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
 #### [链式API](https://github.com/xphsc/spring-boot-starter-easyjdbc/wiki/%E9%93%BE%E5%BC%8FAPI)
+#### [动态映射](https://github.com/xphsc/spring-boot-starter-easyjdbc/wiki/%E5%8A%A8%E6%80%81%E6%98%A0%E5%B0%84)
