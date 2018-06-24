@@ -14,7 +14,7 @@ spring-boot-starter-easyjdbc在spring jdbctemplate之上进行了一些包装，
 
 6：实体属性动态映射。
 
-7：支持多种数据库（MySQL,oracle,sqlserver,postgresql）。
+7：支持多种数据库（mysql,mariadb,oracle,sqlserver,postgresql,db2,sqlite,hsqldb）。
 
 #### [快速开始](https://github.com/xphsc/spring-boot-starter-easyjdbc/wiki/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
 #### [基本操作](https://github.com/xphsc/spring-boot-starter-easyjdbc/wiki/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
