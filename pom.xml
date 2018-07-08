@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.xphsc</groupId>
-    <artifactId>spring-boot-starter-easyjdbc</artifactId>
+    <artifactId>easyjdbc-spring-boot-starter</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <description>spring-boot-starter-easyjdbc</description>
+    <description>easyjdbc-spring-boot-starter</description>
 
 
     <properties>
