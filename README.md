@@ -20,7 +20,7 @@ easyjdbc-spring-boot-starter，支持部分常用的JPA注解，使得经过注�
 
 
 #### [集成文档 - GitHub](https://github.com/xphsc/easyjdbc/wiki)
-
+#### [更新日志 - GitHub](https://github.com/xphsc/easyjdbc/wiki/changelog)
 
 ## 技术交流
 qq群593802274
